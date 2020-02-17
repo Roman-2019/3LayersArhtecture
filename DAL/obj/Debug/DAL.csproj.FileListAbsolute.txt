@@ -1,0 +1,5 @@
+E:\C\ADONET\HWManyArch\DAL\bin\Debug\DAL.dll
+E:\C\ADONET\HWManyArch\DAL\bin\Debug\DAL.pdb
+E:\C\ADONET\HWManyArch\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\C\ADONET\HWManyArch\DAL\obj\Debug\DAL.dll
+E:\C\ADONET\HWManyArch\DAL\obj\Debug\DAL.pdb

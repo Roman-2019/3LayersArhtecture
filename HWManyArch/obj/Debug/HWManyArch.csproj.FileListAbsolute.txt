@@ -1,0 +1,13 @@
+E:\C\ADONET\HWManyArch\HWManyArch\bin\Debug\HWManyArch.exe.config
+E:\C\ADONET\HWManyArch\HWManyArch\bin\Debug\HWManyArch.exe
+E:\C\ADONET\HWManyArch\HWManyArch\bin\Debug\HWManyArch.pdb
+E:\C\ADONET\HWManyArch\HWManyArch\bin\Debug\PresentationLayer.dll
+E:\C\ADONET\HWManyArch\HWManyArch\bin\Debug\BussinesLayer.dll
+E:\C\ADONET\HWManyArch\HWManyArch\bin\Debug\DAL.dll
+E:\C\ADONET\HWManyArch\HWManyArch\bin\Debug\PresentationLayer.pdb
+E:\C\ADONET\HWManyArch\HWManyArch\bin\Debug\BussinesLayer.pdb
+E:\C\ADONET\HWManyArch\HWManyArch\bin\Debug\DAL.pdb
+E:\C\ADONET\HWManyArch\HWManyArch\obj\Debug\HWManyArch.csprojAssemblyReference.cache
+E:\C\ADONET\HWManyArch\HWManyArch\obj\Debug\HWManyArch.csproj.CopyComplete
+E:\C\ADONET\HWManyArch\HWManyArch\obj\Debug\HWManyArch.exe
+E:\C\ADONET\HWManyArch\HWManyArch\obj\Debug\HWManyArch.pdb
